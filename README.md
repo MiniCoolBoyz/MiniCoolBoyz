@@ -29,8 +29,3 @@
 <img src="https://streak-stats.demolab.com?user=MiniCoolBoyz&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats" height="165" />
 </p>
 
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MiniCoolBoyz&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=adbac7" alt="GitHub stats" height="165" />
-</p>
