@@ -1,27 +1,38 @@
 # Michael
 
 <p align="center">
-<em>Building systems that scale, automate, and never sleep.</em>
+<em>I automate what others do manually — then I make it faster.</em>
 </p>
 
 ---
 
 ## Now
 
-- Founder & Developer — building high-performance monitoring and automation platforms
-- Designing multi-agent AI workflows for complex operations
-- Turning repetitive problems into self-running infrastructure
+- Building a platform that monitors **100+ e-commerce sources** in real-time — instant alerts, zero downtime
+- Designing **multi-agent AI workflows** — teams of autonomous agents that analyze, execute, and report
+- Turning every repetitive problem I find into infrastructure that runs itself
 
 ---
 
-## Highlights
+## By the Numbers
 
-| Area | Detail |
+| | |
 |---|---|
-| **Monitoring Systems** | Built platforms tracking 100+ sources in real-time with instant alerts |
-| **AI Agent Orchestration** | Multi-agent teams that analyze, verify, and report autonomously |
-| **Production Infrastructure** | End-to-end deploy pipelines, process management, zero-downtime ops |
-| **Full-Stack Development** | From async backends to modern dashboards |
+| **100+** | Production monitors running 24/7 |
+| **60K+** | Lines of async Python in production |
+| **1,400+** | GitHub contributions in 9 months |
+| **0** | Times I've done the same thing twice |
+
+---
+
+## What I Work On
+
+| Area | What it means |
+|---|---|
+| **Real-Time Monitoring** | Multi-store tracking with sub-second detection and instant Discord alerts |
+| **AI Agent Orchestration** | Parallel agent teams that do in minutes what takes hours manually |
+| **Production Infrastructure** | Deploy pipelines, process management, self-healing systems |
+| **Full-Stack** | Async Python backends, Next.js dashboards, browser automation |
 
 ---
 
