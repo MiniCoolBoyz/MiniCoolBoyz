@@ -1,7 +1,7 @@
 # Michael
 
 <p align="center">
-<em>I automate what others do manually — then I make it faster.</em>
+<em>I automate what others do manually. Then I make it faster. 🐢</em>
 </p>
 
 ---
