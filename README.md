@@ -14,17 +14,6 @@
 
 ---
 
-## By the Numbers
-
-| | |
-|---|---|
-| **100+** | Production monitors running 24/7 |
-| **60K+** | Lines of async Python in production |
-| **1,400+** | GitHub contributions in 9 months |
-| **0** | Times I've done the same thing twice |
-
----
-
 ## What I Work On
 
 | Area | What it means |
