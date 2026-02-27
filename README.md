@@ -1,7 +1,7 @@
 # Michael
 
 <p align="center">
-<em>I automate what others do manually. Then I make it faster. 🐢</em>
+<a href="https://github.com/MiniCoolBoyz"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I+automate+what+others+do+manually.;Then+I+make+it+faster.+%F0%9F%90%A2;100%2B+monitors.+Zero+downtime.;If+I+do+it+twice%2C+I+automate+it." alt="Typing SVG" /></a>
 </p>
 
 ---
