@@ -8,8 +8,8 @@
 
 ## Now
 
-- Building a platform that monitors **100+ e-commerce sources** in real-time — instant alerts, zero downtime
-- Designing **multi-agent AI workflows** — teams of autonomous agents that analyze, execute, and report
+- Building a platform that monitors **100+ e-commerce sources** in real-time instant alerts, zero downtime
+- Designing **multi-agent AI workflows** teams of autonomous agents that analyze, execute, and report
 - Turning every repetitive problem I find into infrastructure that runs itself
 
 ---
