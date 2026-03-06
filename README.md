@@ -9,7 +9,7 @@
 ## About
 
 Independent developer from Italy.
-I design systems that observe, decide, and act — so I don't have to.
+I design systems that observe, decide, and act so I don't have to.
 Every project starts the same way: a problem I got tired of solving by hand.
 
 ---
@@ -46,29 +46,6 @@ Every project starts the same way: a problem I got tired of solving by hand.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
----
-
-## How It Works
-
-```
-┌─────────────────────────────────────────────────┐
-│                    KIRA                          │
-│          Multi-Agent Orchestration               │
-├────────────┬────────────┬────────────┬──────────┤
-│  Monitors  │  Research  │  Companion │  Creative│
-│            │            │            │          │
-│ Real-time  │ Market     │ Personal   │ Ideas →  │
-│ detection  │ intel      │ AI support │ execution│
-│ & alerts   │ pipeline   │ & coaching │ & labs   │
-├────────────┴────────────┴────────────┴──────────┤
-│  Each agent: own skills · own memory · own       │
-│  execution pipeline — built from the ground up   │
-└─────────────────────────────────────────────────┘
-```
-
-Not a wrapper around someone else's API.
-Every agent, every skill, every pipeline — designed, tested, and maintained by hand.
 
 ---
 
