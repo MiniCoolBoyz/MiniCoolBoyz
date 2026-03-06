@@ -1,55 +1,59 @@
-# Michael
+# "MICHAEL"
 
 <p align="center">
-<a href="https://github.com/MiniCoolBoyz"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I+automate+what+others+do+manually.;Then+I+make+it+faster.+%F0%9F%90%A2;100%2B+monitors.+Zero+downtime.;If+I+do+it+twice%2C+I+automate+it." alt="Typing SVG" /></a>
+<a href="https://github.com/MiniCoolBoyz"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=I+automate+what+others+do+manually.;Then+I+make+it+faster.;100%2B+monitors.+Zero+downtime.;If+I+do+it+twice%2C+I+automate+it." alt="Typing SVG" /></a>
 </p>
 
 ---
 
-## About
-
-Independent developer from Italy.
-I design systems that observe, decide, and act so I don't have to.
+Independent developer. Italy.
+I design systems that observe, decide, and act — so I don't have to.
 Every project starts the same way: a problem I got tired of solving by hand.
 
 ---
 
-## Now
+## "NOW"
 
-- Building a platform monitoring **100+ e-commerce sources** in real-time — instant alerts, zero downtime
-- Designing **multi-agent AI workflows** — teams of autonomous agents that analyze, execute, and report
-- Converting **every repetitive problem** I find into infrastructure that runs itself
-
----
-
-## What I Build
-
-| Area | What it means |
-|---|---|
-| **Real-Time Monitoring** | Multi-store e-commerce tracking with sub-second detection, instant alerts, and self-healing pipelines — built from scratch, store by store |
-| **AI Agent Orchestration** | Autonomous agents with dedicated skills, persistent memory, and coordinated execution — designed to think in parallel and operate independently |
-| **Market Intelligence** | Research pipelines that collect, deduplicate, and distill raw data into actionable daily briefs — no manual intervention |
-| **Production Infrastructure** | Deploy pipelines, process management, fault recovery — systems that keep running when I'm not looking |
-| **Full-Stack** | Async Python backends, Next.js dashboards, browser automation — whatever the problem needs |
+Building a platform monitoring **100+ e-commerce sources** in real-time
+Designing **multi-agent AI workflows** that analyze, execute, and report
+Converting **every repetitive problem** into infrastructure that runs itself
 
 ---
 
-## Tech Stack
+## "WHAT I BUILD"
+
+```
+01  Real-Time Monitoring       sub-second detection, instant alerts, self-healing pipelines
+02  AI Agent Orchestration     autonomous agents — own skills, own memory, own execution
+03  Market Intelligence        raw data → actionable briefs, zero manual intervention
+04  Production Infrastructure  deploy pipelines, process management, fault recovery
+05  Full-Stack                 async Python, Next.js, browser automation — whatever it needs
+```
+
+---
+
+## "TOOLS"
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="asyncio" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
 <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+---
+
+## "FREE GAME"
+
+Not a wrapper around someone else's API.
+Every agent, every pipeline, every monitor — designed, tested, and maintained by hand.
+If it breaks, I fix it. If I do it twice, I automate it.
 
 ---
 
