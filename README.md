@@ -49,11 +49,12 @@ Converting **every repetitive problem** into infrastructure that runs itself
 
 ---
 
-## "FREE GAME"
+## "PHILOSOPHY"
 
-Not a wrapper around someone else's API.
-Every agent, every pipeline, every monitor — designed, tested, and maintained by hand.
-If it breaks, I fix it. If I do it twice, I automate it.
+I don't do the same thing twice.
+If I catch myself repeating — I write a system that does it forever.
+While you're reading this, 100+ monitors are already running.
+Monitoring. Deciding. Acting. I'm not watching any of them.
 
 ---
 
