@@ -35,10 +35,11 @@ Letting them **build, fix, and ship** on their own
 01  Real-Time Monitoring       sub-second detection, instant alerts, self-healing pipelines
 02  Checkout Automation        Redeye: native store modules, one engine
 03  AI Agent Teams             own roles, own skills, own memory, own schedule
-04  Market Intelligence        raw data → actionable briefs, zero manual intervention
-05  Production Infrastructure  deploy pipelines, process management, fault recovery
-06  Reverse Engineering        binaries and apps, taken apart
-07  Full-Stack                 async Python, Go, TypeScript, browser automation, whatever it needs
+04  Agent World                Matrix: a living world that grows with my agents' work
+05  Market Intelligence        raw data → actionable briefs, zero manual intervention
+06  Production Infrastructure  deploy pipelines, process management, fault recovery
+07  Reverse Engineering        binaries and apps, taken apart
+08  Full-Stack                 async Python, Go, TypeScript, browser automation, whatever it needs
 ```
 
 ---
@@ -59,7 +60,7 @@ Something else is.
 ---
 
 <p align="center">
-<img src="assets/battle.webp" alt="My agents fighting their tasks" width="100%" />
+<img src="assets/battle.webp" alt="Matrix: my agents fighting their tasks" width="100%" />
 </p>
 
-<p align="center"><i>They fight. I build the next thing.</i></p>
+<p align="center"><i>This is Matrix. They fight. I build the next thing.</i></p>
